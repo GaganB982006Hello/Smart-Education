@@ -1,3 +1,5 @@
+you can open this web page using this url : https://aurora-edu-hub.lovable.app
+
 # Welcome to your Lovable project
 
 ## Project info
